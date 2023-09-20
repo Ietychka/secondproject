@@ -1,0 +1,11 @@
+D:\myproject\secondproject\KudashevaNotepad\KudashevaNotepad\bin\Debug\KudashevaNotepad.exe.config
+D:\myproject\secondproject\KudashevaNotepad\KudashevaNotepad\bin\Debug\KudashevaNotepad.exe
+D:\myproject\secondproject\KudashevaNotepad\KudashevaNotepad\bin\Debug\KudashevaNotepad.pdb
+D:\myproject\secondproject\KudashevaNotepad\KudashevaNotepad\obj\Debug\KudashevaNotepad.csproj.AssemblyReference.cache
+D:\myproject\secondproject\KudashevaNotepad\KudashevaNotepad\obj\Debug\KudashevaNotepad.csproj.SuggestedBindingRedirects.cache
+D:\myproject\secondproject\KudashevaNotepad\KudashevaNotepad\obj\Debug\KudashevaNotepad.Form1.resources
+D:\myproject\secondproject\KudashevaNotepad\KudashevaNotepad\obj\Debug\KudashevaNotepad.Properties.Resources.resources
+D:\myproject\secondproject\KudashevaNotepad\KudashevaNotepad\obj\Debug\KudashevaNotepad.csproj.GenerateResource.cache
+D:\myproject\secondproject\KudashevaNotepad\KudashevaNotepad\obj\Debug\KudashevaNotepad.csproj.CoreCompileInputs.cache
+D:\myproject\secondproject\KudashevaNotepad\KudashevaNotepad\obj\Debug\KudashevaNotepad.exe
+D:\myproject\secondproject\KudashevaNotepad\KudashevaNotepad\obj\Debug\KudashevaNotepad.pdb
